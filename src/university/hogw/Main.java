@@ -31,6 +31,5 @@ public class Main {
         Draco.description();
         Gregory.description();
         Draco.compare(Gregory);
-
     }
 }
